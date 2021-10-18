@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCompose-UI-Templates</string>
+    <string name="title_activity_profile_ui_screen">ProfileUiScreen</string>
+</resources>
